@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lomax Osomba, I'm a great kid of my mum, I don't like programming because I love it. I'm self-motivated and very enthusiastic in any domains. I have a highly productive work ethic and I keep in mind that there is no great achievement without hard work 
+- 👋 Hi, I’m Lomax Osomba, I'm a great kid of my mum, I don't like programming because I love it. I'm self-motivated and very enthusiastic in any domain. I have a highly productive work ethic and I keep in mind that there is no great achievement without hard work 
      #I believe while life is still true, I must keep learning. 
 - 👀 I’m interested in object-oriented programming, full stack development, database technologies and data analytics.
 - 🌱 I’m currently completing a bachelor of science (Honours) course in computing with software development at MTU Kerry.
