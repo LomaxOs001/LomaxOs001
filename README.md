@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Lomax Osomba, a great kid of his mum; I love programming. I have a highly productive work ethic and remember that there is no outstanding achievement without hard work. I'm self-motivated and very enthusiastic in any domain I find interesting.
+- 👋 My name is Lomax Osomba, and I am a highly motivated and enthusiastic individual with a strong work ethic. I have a passion for programming and am committed to achieving excellence through hard work. I am self-motivated and thrive in environments where I can pursue my interests and make meaningful contributions..
      #I believe while life is still true, learning never ends. 
 - 👀 I’m interested in object-oriented programming, full stack development, database design and development, and data analytics.
 - 🌱 I’m completing a bachelor of science (Honours) course in computing with software development at MTU Kerry.
