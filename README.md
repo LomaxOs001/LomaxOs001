@@ -3,7 +3,7 @@
 - 👀 I’m interested in leadership, continuous improvement, object-oriented programming, full stack development, and database design and development. 
 - 🌱 I’m completing a bachelor of science (Honours) course in bachelor of software engineering at MTU Kerry.
 - 💞️ Strong desire to grow and become a disciplined professional.
-- ✨ Didicated to write clean code and design clean architecture like Uncle Bob
+- ✨ Didicated to write clean code and design clean architecture
 - 📫 Gmail: Lomaxosomba60@gmail.com, LinkedId: https://www.linkedin.com/in/lomax-osomba-065a091a1/
   
 
