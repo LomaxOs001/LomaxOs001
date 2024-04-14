@@ -4,6 +4,6 @@
 - 💞️ Striving for personal development and becoming disciplined professionally.
 - ✨ Committed to becoming the best.
 - 📫 LinkedId: https://www.linkedin.com/in/lomax-osomba-065a091a1/ #I believe that learning never ends as long as life goes on.
-/*
-* Crucial repos are all in private modes
-* /
+
+#Crucial repos are all in private modes
+
