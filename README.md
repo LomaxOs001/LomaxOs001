@@ -1,9 +1,12 @@
-- 👋 My name is Lomax OS. I am a highly motivated and enthusiastic individual with a strong work ethic. I enjoy problem-solving and working with technology. I don't stay in one place for years; instead, I make big moves, akin to the Queen piece in chess. (Excuse my violation of DRY principle below with "I am")
-- 👀 I am interested in leadership, continuous improvement, excellence, SDLC, SDE, and PM.
-- 🌱 I am growing like a Baobab tree in te field of Software Engineering
-- 💞️ I am striving for personal development and to become disciplined professionally.
-- ✨ I am committed to becoming the best.
-- 📫 LinkedId: https://www.linkedin.com/in/lomax-osomba-065a091a1/ #I believe that learning never ends as long as life goes on.
 
-#Crucial repos are all in private modes
+![Screenshot 2024-03-11 203943](https://github.com/LomaxOS/lomaxos/assets/72916140/c3a40cbd-a1b4-4069-a35d-c7fd78c48836)
 
+
+👋 My name is Lomax OS. I am a highly motivated and enthusiastic individual with a strong work ethic. I enjoy problem-solving and working with technology. I don't stay in one place for years; instead, I make big moves, akin to the Queen piece in chess. (Don't mind my violation of DRY principle below with "I am")
+👀 I am interested in leadership, Kaizen, software development lifecycle, software Engineering and Project management.
+🌱 I am growing like a Baobab tree in te field of Software Engineering
+💞️ I am striving for personal development to excel in this industry.
+✨ Please feel free to visit my LinkedIn profile in the link below.
+📫 LinkedId: https://www.linkedin.com/in/lomax-osomba-065a091a1/
+
+# Please feel free to reach out for collaboration on projects. Some repositories are private, and I would love to have collaborators on board.
