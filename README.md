@@ -1,5 +1,4 @@
 
-![Screenshot 2024-03-11 203943](https://github.com/LomaxOS/lomaxos/assets/72916140/c3a40cbd-a1b4-4069-a35d-c7fd78c48836)
 
 
 👋 My name is Lomax OS. I am a highly motivated and enthusiastic individual with a strong work ethic. I enjoy problem-solving and working with technology. I don't stay in one place for years; instead, I make big moves, akin to the Queen piece in chess. (Don't mind my violation of DRY principle below with "I am")
