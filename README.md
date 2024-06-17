@@ -1,6 +1,6 @@
-
-
-![Lolo in the block](https://github.com/LomaxOS/lomaxos/assets/72916140/e27f497d-4082-433b-8e63-a4d38a87849a)
+<p align="center" width="100%">
+    <img src="[https://i.stack.imgur.com/RJj4x.png](https://github.com/LomaxOS/lomaxos/assets/72916140/e27f497d-4082-433b-8e63-a4d38a87849a)"> 
+</p>
 
 
   💻 **About Me**
