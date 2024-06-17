@@ -80,7 +80,7 @@
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-F08000?style=flat&logo=lucidchart&logoColor=white)
 
 ## 📈 GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LomaxOS&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LomaxOS&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LomaxOS&layout=compact&theme=radical)
 
 ## 🚀 Projects
@@ -90,6 +90,15 @@
 ...
 
 ## 📫 Contact Me
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lomax-osomba-065a091a1/)
-- Twitter: [twitter](https://twitter.com/yourtwitterhandle)
+<p align="center" width="100%">
+  <a href="https://discord.com/invite/your-discord-link" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-oliveira-teixeira/" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Lomax%20Osomba-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
+  </a>
+  <a href="mailto:your-email@example.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;">
+  </a>
+</p>
 
