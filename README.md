@@ -85,22 +85,12 @@
 - [Project 2](link-to-project-2) - Brief description.
 - [Project 3](link-to-project-3) - Brief description.
 
-## ✍️ Blogs / Articles
-
 
 ## 🏆 Achievements / Certifications
-
+...
 
 ## 📫 Contact Me
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lomax-osomba-065a091a1/)
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
-## ⚡ Fun Facts / Personal Interests
-- I love hiking and photography.
-- Avid reader of sci-fi novels.
-
-## 💖 Support Me
-If you like my work, consider supporting me:
-
-[GitHub Sponsors](link-to-github-sponsors) | [Patreon](link-to-patreon)
