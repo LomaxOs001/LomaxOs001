@@ -84,13 +84,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LomaxOS&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LomaxOS&layout=compact&theme=radical)
 
-## 🚀 Projects
-...
-
-## 🏆 Achievements / Certifications
-...
-
-
 <p align="center" width="100%">
   <a href="LomaxOS" rel="nofollow">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;">
