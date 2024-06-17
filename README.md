@@ -1,5 +1,6 @@
 
-![Block Logo](https://github.com/LomaxOS/lomaxos/assets/72916140/8d91249f-ad2b-43cc-8535-dea6ce2f9ce4)
+
+![Lolo in the block](https://github.com/LomaxOS/lomaxos/assets/72916140/e27f497d-4082-433b-8e63-a4d38a87849a)
 
 
   💻 **About Me**
