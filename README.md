@@ -3,7 +3,7 @@
 </p>
 
 
-  💻 **About Me**
+  **About Me**
 
 - 👋Hey, my name is Lomax, a software engineer from Munster Technological University. I'm a self-motivated individual with strong character and work ethic. I love working with technologies and people. 
 - 👀I am interested in leadership, Kaizen, the software development lifecycle, software Engineering, Project management, Blockchain technolgy, Web3, and Crypto.
@@ -15,25 +15,18 @@
 - 🤝I have some repos on private that I would love to have collaborators on board, focusing on Blockchain-based solutions.
 - 🌍Please feel free to reach out for collaboration on team projects. 
 
-- 📫You can visit my LinkedIn: https://www.linkedin.com/in/lomax-osomba-065a091a1/
-
-![Cover Image](link-to-cover-image)
-
-# Hello, I'm [Your Name] 👋
-
-## About Me
-A brief introduction about yourself. Mention your background, current work, and interests.
+- 📫Let's connect on LinkedIn: https://www.linkedin.com/in/lomax-osomba-065a091a1/
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat&logo=react&logoColor=black)
 <!-- Add more badges as needed -->
 
 ## 📈 GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LomaxOS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LomaxOS&layout=compact&theme=radical)
 
 ## 🚀 Projects
 - [Project 1](link-to-project-1) - Brief description.
