@@ -63,7 +63,7 @@
 ### Architecture & Design
 ![MVC](https://img.shields.io/badge/-MVC-007ACC?style=flat&logo=mvc&logoColor=white)
 ![Monolithic](https://img.shields.io/badge/-Monolithic-FF6F61?style=flat&logo=monolithic&logoColor=white)
-![Layered](https://img.shields.io/badge/-Layered-121D33?style=flat&logo=layered&logoColor=white)
+![Layered](https://img.shields.io/badge/-Layered-6DB33F?style=flat&logo=layered&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-FFD700?style=flat&logo=microservices&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain&logoColor=white)
