@@ -28,6 +28,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-007ACC?style=flat&logo=Web3&logoColor=white)
+
 
 ### Backend
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -36,6 +38,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-85EA2D?style=flat&logo=rest&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain&logoColor=white)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
@@ -46,6 +49,7 @@
 
 ### Testing
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/-Mockito-47A248?style=flat&logo=mockito&logoColor=white)
 
 ### DevOps / Infrastructure
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -65,6 +69,7 @@
 ![HTTPS](https://img.shields.io/badge/-HTTPS-00586B?style=flat&logo=https&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/-SSL%2FTLS-8C8C8C?style=flat&logo=ssl&logoColor=white)
 ![CORS](https://img.shields.io/badge/-CORS-85C1E9?style=flat&logo=cors&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain&logoColor=white)
 
 ### Tools & Other Technologies
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
@@ -88,7 +93,7 @@
 
 ## 📫 Contact Me
 - Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [LinkedIn Profile]([link-to-linkedin-profile](https://www.linkedin.com/in/lomax-osomba-065a091a1/))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lomax-osomba-065a091a1/)
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## ⚡ Fun Facts / Personal Interests
