@@ -28,7 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-007ACC?style=flat&logo=Web3&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-29A3A3?style=flat&logo=web3&logoColor=white)
 
 
 ### Backend
@@ -81,16 +81,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LomaxOS&layout=compact&theme=radical)
 
 ## 🚀 Projects
-- [Project 1](link-to-project-1) - Brief description.
-- [Project 2](link-to-project-2) - Brief description.
-- [Project 3](link-to-project-3) - Brief description.
-
+...
 
 ## 🏆 Achievements / Certifications
 ...
 
 ## 📫 Contact Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lomax-osomba-065a091a1/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Twitter: [twitter](https://twitter.com/yourtwitterhandle)
 
