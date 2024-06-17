@@ -38,6 +38,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-85EA2D?style=flat&logo=rest&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-29A3A3?style=flat&logo=web3&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain&logoColor=white)
 
 ### Databases
