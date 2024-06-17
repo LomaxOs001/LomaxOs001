@@ -71,11 +71,12 @@
 ![SSL/TLS](https://img.shields.io/badge/-SSL%2FTLS-8C8C8C?style=flat&logo=ssl&logoColor=white)
 ![CORS](https://img.shields.io/badge/-CORS-85C1E9?style=flat&logo=cors&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 
 ### Tools & Other Technologies
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/-Lucidchart-F08000?style=flat&logo=lucidchart&logoColor=white)
 ![ProjectManager](https://img.shields.io/badge/-ProjectManager-004D40?style=flat&logo=projectmanager&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-F08000?style=flat&logo=lucidchart&logoColor=white)
 
 ## 📈 GitHub Statistics
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LomaxOS&show_icons=true&theme=radical)
