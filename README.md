@@ -6,7 +6,7 @@
   **About Me**
 
 - 👋Hey, my name is Lomax, a software engineer from Munster Technological University. I'm a self-motivated individual with strong character and work ethic. I love working with technologies and people. 
-- 👀I am interested in leadership, Kaizen, the software development lifecycle, software Engineering, Project management, Blockchain technolgy, Web3, and Crypto.
+- 👀I am interested in leadership, Kaizen, the software development lifecycle, software Engineering practices, Project management, Blockchain technolgy, Web3, and Crypto.
 - 🌱I am dedicated and determined to expand my knowledge as big as Baobab trees in this landscape, which is a hub of innovation, creativity, and change.
 - 🎯I strive for personal development to excel in this industry and to be able to teach others about its beauty.
 - 🥊🥋 I am active in boxing, rolling in BJJ, going to the gym, and running in my "free" time. 🏋️🏃‍♂️
