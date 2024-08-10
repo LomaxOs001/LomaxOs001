@@ -82,8 +82,8 @@
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-F08000?style=flat&logo=lucidchart&logoColor=white)
 
 ## 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LomaxOS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LomaxOS&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LomaxOs001&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LomaxOs001&layout=compact&theme=radical)
 
 ## 📫 Contact 
 
