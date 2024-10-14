@@ -10,7 +10,6 @@
 - 🌱I have a strong work ethic and am dedicated to expanding my knowledge to change people’s lives.
 - 🥊🥋 I am also a passionate BBJ and Boxing athlete.
 
-- 🌍Please feel free to reach out for collaboration on team projects. 
 - 📫Let's connect on LinkedIn: https://www.linkedin.com/in/lomax-osomba-065a091a1/
 
 ## 🛠 Tech Stack, not limited to:
