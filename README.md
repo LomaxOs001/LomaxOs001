@@ -40,7 +40,7 @@
 ![CouchDB](https://img.shields.io/badge/-CouchDB-EF2D56?style=flat&logo=apache-couchdb&logoColor=white)
 
 ## API
-![REST](https://img.shields.io/badge/-REST-85EA2D?style=flat&logo=rest&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-85EA2D?style=flat&logo=restapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 
