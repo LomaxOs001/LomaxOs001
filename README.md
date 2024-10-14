@@ -48,15 +48,17 @@
 ### Testing
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/-Mockito-47A248?style=flat&logo=mockito&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=postman&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### DevOps / Infrastructure
+### CI/CD
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+## Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-00C7B7?style=flat&logo=github-actions&logoColor=white)
 
 ### Architecture & Design
 ![MVC](https://img.shields.io/badge/-MVC-007ACC?style=flat&logo=mvc&logoColor=white)
