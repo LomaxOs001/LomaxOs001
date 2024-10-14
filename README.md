@@ -19,10 +19,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-29A3A3?style=flat&logo=web3&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 
@@ -75,6 +75,7 @@
 
 
 ### Tools & Other Technologies
+![Blockchain](https://img.shields.io/badge/-Blockchain-#121D33?style=flat&logo=blockchain&logoColor=white)
 ![ProjectManager](https://img.shields.io/badge/-ProjectManager-004D40?style=flat&logo=projectmanager&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-F08000?style=flat&logo=lucidchart&logoColor=white)
 
