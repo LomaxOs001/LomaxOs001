@@ -61,8 +61,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### Architecture & Design
-![MVC](https://img.shields.io/badge/-MVC-007ACC?style=flat&logo=mvc&logoColor=white)
 ![Monolithic](https://img.shields.io/badge/-Monolithic-FF6F61?style=flat&logo=monolithic&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-007ACC?style=flat&logo=mvc&logoColor=white)
 ![Layered](https://img.shields.io/badge/-Layered-6DB33F?style=flat&logo=layered&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-FFD700?style=flat&logo=microservices&logoColor=white)
 
@@ -72,6 +72,7 @@
 ![CORS](https://img.shields.io/badge/-CORS-85C1E9?style=flat&logo=cors&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/-Cryptography-2D9CDB?style=flat&logo=cryptography&logoColor=white)
+
 
 ### Tools & Other Technologies
 ![ProjectManager](https://img.shields.io/badge/-ProjectManager-004D40?style=flat&logo=projectmanager&logoColor=white)
