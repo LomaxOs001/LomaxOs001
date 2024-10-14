@@ -5,10 +5,10 @@
 
   **About Me**
 
-- 👋Hey, my name is Lomax, a software engineer. I'm passionate about learning new technologies to solve complex problems and lifting up others. 
-- 👀I am interested in Leadership, personal and software development, Project management, Blockchain technolgy, Web3, and investment.
+- 👋Hey, Lomax here. I am passionate software engineer, born to learn new technologies, solve complex problems, and lifting up others. 
+- 👀I am interested in Leadership, personal and software development, Project management, Blockchain technology, Web3, and Investment.
 - 🌱I have a strong work ethic and am dedicated to expanding my knowledge to change people’s lives.
-- 🥊🥋 I am also passionate about BBJ and Boxing.
+- 🥊🥋 I am also a passionate BBJ and Boxing athlete.
 
 - 🌍Please feel free to reach out for collaboration on team projects. 
 - 📫Let's connect on LinkedIn: https://www.linkedin.com/in/lomax-osomba-065a091a1/
