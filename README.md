@@ -55,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white): ## Cloud-Based Full-Stack Applications
+## ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white): Cloud-Based Full-Stack Applications
 
 ![Amplify](https://img.shields.io/badge/-Amplify-FF9900?style=flat&logo=amazon-amplify&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=flat&logo=amazon-cloudformation&logoColor=white)
