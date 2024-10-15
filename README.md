@@ -36,12 +36,13 @@
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-dynamoDB-EF2D56?style=flat&logo=amazon-dynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-dynamoDB-326CE5?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## API
 ![REST](https://img.shields.io/badge/-REST-85EA2D?style=flat&logo=restapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-Apigateway-E10098?style=flat&logo=amazon-apigateway&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 
 ### Testing
