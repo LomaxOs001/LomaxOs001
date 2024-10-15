@@ -36,13 +36,11 @@
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-dynamoDB-326CE5?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## API
 ![REST](https://img.shields.io/badge/-REST-85EA2D?style=flat&logo=restapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![API Gateway](https://img.shields.io/badge/-ApiGateway-E10098?style=flat&logo=amazon-api&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 
 ### Testing
@@ -57,8 +55,22 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+## ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white): Cloud-Based Full-Stack Applications
+
+![Amplify](https://img.shields.io/badge/-Amplify-FF9900?style=flat&logo=amazon-amplify&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=flat&logo=amazon-cloudformation&logoColor=white)
+![IAM](https://img.shields.io/badge/-IAM-FF9900?style=flat&logo=amazon-iam&logoColor=white)
+![Cognito](https://img.shields.io/badge/-Cognito-FF9900?style=flat&logo=amazon-cognito&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-FF9900?style=flat&logo=amazon-s3&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=amazon-lambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF9900?style=flat&logo=amazon-api-gateway&logoColor=white)
+![AppSync](https://img.shields.io/badge/-AppSync-6B1F69?style=flat&logo=amazon-appsync&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-dynamoDB-326CE5?style=flat&logo=amazon-dynamodb&logoColor=white)
+![SQS](https://img.shields.io/badge/-SQS-FF9900?style=flat&logo=amazon-sqs&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![CloudFront](https://img.shields.io/badge/-CloudFront-FF9900?style=flat&logo=amazon-cloudfront&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=flat&logo=amazon-cloudwatch&logoColor=white)
+
 
 ### Architecture & Design
 ![Monolithic](https://img.shields.io/badge/-Monolithic-FF6F61?style=flat&logo=monolithic&logoColor=white)
