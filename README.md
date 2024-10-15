@@ -36,8 +36,8 @@
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-dynamoDB-EF2D56?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![CouchDB](https://img.shields.io/badge/-CouchDB-EF2D56?style=flat&logo=apache-couchdb&logoColor=white)
 
 ## API
 ![REST](https://img.shields.io/badge/-REST-85EA2D?style=flat&logo=restapi&logoColor=white)
