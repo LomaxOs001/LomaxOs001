@@ -57,10 +57,10 @@
 
 ## ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white): Cloud-Based Full-Stack Applications
 
-![Amplify](https://img.shields.io/badge/-Amplify-FF9900?style=flat&logo=amazon-amplify&logoColor=white)
+![Amplify](https://img.shields.io/badge/-Amplify-563D7C?style=flat&logo=aws-amplify&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=flat&logo=amazon-cloudformation&logoColor=white)
 ![IAM](https://img.shields.io/badge/-IAM-FF9900?style=flat&logo=amazon-iam&logoColor=white)
-![Cognito](https://img.shields.io/badge/-Cognito-FF9900?style=flat&logo=amazon-cognito&logoColor=white)
+![Cognito](https://img.shields.io/badge/-Cognito-C21325?style=flat&logo=amazon-cognito&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-FF9900?style=flat&logo=amazon-s3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=amazon-lambda&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF9900?style=flat&logo=amazon-api-gateway&logoColor=white)
