@@ -5,7 +5,7 @@
 
   **About Me**
 
-- 👋Hey, Lomax here. I am passionate software engineer, born to learn new technologies, solve complex problems, and lifting up others. 
+- 👋Hey, Lomax here. I am a passionate software engineer, born to learn new technologies, solve complex problems, and lifting up others. 
 - 👀I am interested in Leadership, personal and software development, Project management, Blockchain technology, Web3, and Investment.
 - 🌱I have a strong work ethic and am dedicated to expanding my knowledge to change people’s lives.
 - 🥊🥋 I am also a passionate BBJ and Boxing athlete.
