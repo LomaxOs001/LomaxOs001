@@ -7,7 +7,7 @@
 
 - 👋Hey, Lomax here. I am a passionate software engineer, born to learn new technologies, solve complex problems, and lift up others. 
 - 👀I am interested in Leadership, Personal and Software development, Project management, Blockchain technology, and Investment.
-- 🌱I have a strong work ethic and am dedicated to expanding my knowledge to change people’s lives.
+- 🌱I have a strong work ethic and am dedicated to expanding my knowledge to positively impact.
 - 🥊🥋 I am also a passionate BBJ and Boxing athlete.
 
 - 📫Let's connect on LinkedIn: https://www.linkedin.com/in/lomax-osomba-065a091a1/
